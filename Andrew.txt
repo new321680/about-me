@@ -3,3 +3,5 @@ Thinking.
 Leopard
 
 Transparent
+
+Copyright 2019
